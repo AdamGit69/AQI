@@ -29,7 +29,7 @@ cards:
         Moderate </font></font>
 
 
-        The AQI is: <font size = 4px color = reen> {{
+        The AQI is: <font size = 4px color = green> {{
         states('sensor.u_s_air_quality_index') }} </font></center>
   - type: conditional
     conditions:
@@ -44,7 +44,7 @@ cards:
         </font></font>
 
 
-        The AQI is: <font size = 4px color = reen> {{
+        The AQI is: <font size = 4px color = green> {{
         states('sensor.u_s_air_quality_index') }} </font></center>
   - type: conditional
     conditions:
