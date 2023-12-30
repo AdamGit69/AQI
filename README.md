@@ -31,11 +31,3 @@ You need the following images saved:
 Then you need to copy and paste the code from the YAML file into a new "manual card" (add new card/right down the bottom)
 
 And that's it. :)
-
-
-
-        The AQI is: <font size = 4px color = reen> {{
-        states('sensor.u_s_air_quality_index') }} </font></center>
-
-
-
