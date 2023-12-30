@@ -10,11 +10,11 @@ cards:
         <center><img src='/local/healthy-icon.svg' width='50%'><BR>
 
 
-        <font size = 4px> The Air Quality Today Is  <font color = reen> Good
+        <font size = 4px> The Air Quality Today Is  <font color = green> Good
         </font></font>
 
 
-        The AQI is: <font size = 4px color = reen> {{
+        The AQI is: <font size = 4px color = green> {{
         states('sensor.u_s_air_quality_index') }} </font></center>
   - type: conditional
     conditions:
