@@ -17,7 +17,7 @@ Once installed the integration will create enities called:
   sensor.u_s_air_pollution_level
   sensor.u_s_main_pollutant
 
-I use the US air pollution levels in this card. Anyway, once AirVisual is setup, save the images from this Github in you HA instance's WWW directory.
+I use the US air pollution levels in this card. Anyway, once AirVisual is setup, save the images from this Github in your HA instance's WWW directory.
 You need the following images saved:
 
   healthy-icon.svg
