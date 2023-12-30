@@ -19,9 +19,13 @@ Once installed the integration will create enities called:
 
 I use the US air pollution levels in this card. Anyway, once AirVisual is setup, save the images from this Github in you HA instance's WWW directory.
 You need the following images saved:
+
   unhealthy-icon.svg
+
   moderate-icon.svg
+  
   unhealthy-icon.svg
+  
   hazardous-icon.svg
 
 Then you need to copy and paste the code from the YAML file (or below) into a new "manual card" (add new card/right down the bottom)
