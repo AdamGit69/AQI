@@ -22,7 +22,7 @@ You need the following images saved:
   unhealthy-icon.svg
   moderate-icon.svg
   unhealthy-icon.svg
-
+  hazardous-icon.svg
 
 Then you need to copy and paste the code from the YAML file (or below) into a new "manual card" (add new card/right down the bottom)
 
