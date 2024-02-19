@@ -31,3 +31,6 @@ You need the following images saved:
 Then you need to copy and paste the code from the YAML file into a new "manual card" (add new card/right down the bottom)
 
 And that's it. :)
+
+![screenshot2](https://github.com/AdamGit69/AQI/assets/103038993/e08d3067-52b3-4b00-a68a-b22d30d9668e) <BR>
+![screenshot1](https://github.com/AdamGit69/AQI/assets/103038993/aa299003-d028-416d-9a30-8e6c156da637) 
